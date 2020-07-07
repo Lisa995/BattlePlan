@@ -1,27 +1,33 @@
 # BattlePlan
 
+  
+
 ### July
 
-Week 01    06 - 10   |    - [] CV / Portfolio 
-                     |
-Week 02    13 - 17   |    - [] Refaire exercices JS
-                     |    - [] Pomodoro  
-                     |
-Week 03    20 - 24   |    - [] JS + ReacJS
-                     |
-Week 04    27 - 31   |    :sun_with_face:
-
+  
+|  |  |  |
+|--|--|--|
+|week 01 | 06 - 10  | CV/Portfolio |
+|week 02  | 13 - 17 | JS exercises + Pomodoro |
+|week 03  | 20 - 24 | JS + React (+Figma?) |
+|week 04  | 27 - 31 |:sun_with_face: |
+  
 
 ### August
 
-Week 05    03 - 07   |    Front-end skills developpement : 
-Week 06    10 - 14   |        - [] HTML/CSS/SCSS
-Week 07    17 - 21   |        - [] JS/ReactJS    
-Week 08    24 - 28   |        - [] Animation 3D tools (GSAP, Three.js, Velocity.js
-                     |                Snap.svg, AniJS, Animate.css ... ?)
-           
+|  |  |Front-end skills developpment : |
+|--|--|--|
+|week 05 | 03 - 07  | CSS / SCSS / JS /reactJS |
+|week 06  | 10 - 14 |  + **Animation 3D tools :**	 |
+|week 07  | 17 - 21 |  (GSAP, Three.js, Velocity.js, Snap.svg, |
+|week 08  | 24 - 28 |AniJS, Animate.css ... ?) |
+
+
+
 ### September
 
-Week 09    31 - 04   |
-Week 10    07 - 11   |
+|  |  |  |
+|--|--|--|
+| week 09 | 03 - 07  |  |
+| week 10 | 10 - 14 |   |
 
